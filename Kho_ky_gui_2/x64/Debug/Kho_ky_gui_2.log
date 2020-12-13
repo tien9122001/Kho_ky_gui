@@ -1,0 +1,13 @@
+﻿  info.cpp
+  info_DT.cpp
+  info_KH.cpp
+D:\N19DCAT074\Lap_trinh_C++\De_tai\Kho_ky_gui_2\Kho_ky_gui_2\info_KH.cpp(121,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  items.cpp
+D:\N19DCAT074\Lap_trinh_C++\De_tai\Kho_ky_gui_2\Kho_ky_gui_2\items.cpp(75,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\N19DCAT074\Lap_trinh_C++\De_tai\Kho_ky_gui_2\Kho_ky_gui_2\main.cpp(35,12): warning C4101: 'call_items': unreferenced local variable
+D:\N19DCAT074\Lap_trinh_C++\De_tai\Kho_ky_gui_2\Kho_ky_gui_2\main.cpp(34,11): warning C4101: 'call_info': unreferenced local variable
+  transaction_history.cpp
+  Generating Code...
+D:\N19DCAT074\Lap_trinh_C++\De_tai\Kho_ky_gui_2\Kho_ky_gui_2\info_KH.cpp(101): warning C4715: 'info_KH::find': not all control paths return a value
+  Kho_ky_gui_2.vcxproj -> D:\N19DCAT074\Lap_trinh_C++\De_tai\Kho_ky_gui_2\x64\Debug\Kho_ky_gui_2.exe

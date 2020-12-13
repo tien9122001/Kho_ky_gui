@@ -1,0 +1,5 @@
+KH_01,Nuoc ngot Pepsi,3/11/2020,5
+KH_02,Gau bong,3/11/2020,10
+KH_03,Nuoc ngot Coca,3/11/2020,10
+KH_04,Gau bong,3/11/2020,5
+KH_01,Nuoc ngot Coca,3/11/2020,5
